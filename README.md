@@ -28,7 +28,7 @@ Para este proyecto se seleccionaron preguntas principalmente del apartado de **s
 
 Se trabajó desde un Rproject llamado "examen_final". 
 
-**La carpeta completa con los archivos se encuentra en https://github.com/learn-R/examen-Barbarasepulvedac** 
+**La carpeta completa con los archivos se encuentra en https://github.com/Barbarasepulvedac/Proyecto-Final-** 
 
 # Referencias
 Termómetro Social 4 (2020) Cuestionario TERMÓMETRO EPIDEMIOLÓGICO Y SOCIAL DE LA EPIDEMIA COVID-19 CHILE. Recuperado de TS4: https://b6323ffa-7fb7-4415-b07a-a0afa49c7f3f.filesusr.com/ugd/a52fe7_63af959d05584451b260e4717d18ca39.pdf y https://www.microdatos.cl/tsoc
